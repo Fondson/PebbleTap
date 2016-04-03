@@ -1,0 +1,27 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MakeAwesomeHappen",
+    "enableMultiJS": true,
+    "longName": "Pebble Tap",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Pebble Tap",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "b9775fc8-46a6-4846-81f7-b0501ed4ecde",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
