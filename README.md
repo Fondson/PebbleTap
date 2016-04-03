@@ -1,2 +1,3 @@
 # PebbleTap
-Pebble motion tap app that automatically sets a timer when your pebble detects a "tap".
+Improved <a href="https://github.com/pebble-examples/concentricity/">pebble watchface</a> that automatically sets a timer when your pebble detects a "tap".
+
